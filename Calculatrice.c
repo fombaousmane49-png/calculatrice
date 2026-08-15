@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 float addition(float num1,float num2)
 {
     return printf("%.2f + %.2f = %.2f",num1,num2,num1+num2);
